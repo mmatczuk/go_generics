@@ -98,7 +98,7 @@ import (
 	"regexp"
 	"strings"
 
-	"gvisor.googlesource.com/gvisor/tools/go_generics/globals"
+	"github.com/mmatczuk/go_generics/globals"
 )
 
 var (
